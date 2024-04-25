@@ -4,8 +4,8 @@ Implement Alpha-Beta Pruning Algorithm
 Experiment: 7
 
 @Learner: TE-CO
-Name: Arman Aslam Khan
-Roll No: 22DCO03
+Name: 
+Roll No: 
 Batch: 3
 Academic Year: 2024
 Sem - 6

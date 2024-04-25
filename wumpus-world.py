@@ -4,8 +4,8 @@ Implement Wumpus World
 Experiment: 5
 
 @Learner: TE-CO
-Name: Arman Aslam Khan
-Roll No: 22DCO03
+Name: 
+Roll No: 
 Batch: 3
 Academic Year: 2024
 Sem - 6
@@ -90,7 +90,7 @@ if __name__ == "__main__":
 
 '''
 Output:
-PS C:\Users\Desktop\22DCO03> python woum.py
+PS C:\Users\Desktop\> python woum.py
 Welcome to Wumpus World!
 +---+---+---+---+
 | A |   |   | W |
